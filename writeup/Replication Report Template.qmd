@@ -12,7 +12,15 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information. You will likely contact the authors of the original study, so this should be professional and forward facing. It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+Proposal: 
+Justification 
+Zettersten & Saffran (2020) uses cross situational learning tasks to understand how learners gather new information for word learning. It applies an active learning and sampling lens to word learning. Experiment 1 aims to study whether adults engage in information seeking behavior that helps in disambiguating the reference, which is the central question they later ask in Experiment 2 with a developmental population. I am to replicate Experiment 1 (including the results in supplementary analyses s1). Ultimately I am also interested in a yoked version of this task to understand whether active learners outperformed their yoked counterparts on the same items.  
+
+Methods 
+Stimuli is available on OSF (alien images, novel words). The experiment was also developed in jsPsych (older version). In the task, there are three phases: training phase (where two referents and two labels are shown in random order, occurring 6 times, for a total of 24 trials), sampling phase (objects appear in 8 randomized locations), recall test without feedback
+
+Challenges 
+The experiment was designed using some custom jsPsych plugins, which is where I believe I might run into some challenges. 
 
 
 ## Methods
